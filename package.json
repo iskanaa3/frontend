@@ -15,5 +15,10 @@
   "bugs": {
     "url": "https://github.com/iskanaa3/frontend/issues"
   },
-  "homepage": "https://github.com/iskanaa3/frontend#readme"
+  "homepage": "https://github.com/iskanaa3/frontend#readme",
+  "devDependencies": {
+    "babel-core": "^6.26.3",
+    "babel-loader": "^8.0.4"
+  },
+  "dependencies": {}
 }
